@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @flagsterxx
 - 👀 I’m interested in cybersecurity
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python & sql
 - 😄 Pronouns: she/her
 
 <!---
